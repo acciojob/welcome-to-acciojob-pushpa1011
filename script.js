@@ -2,4 +2,4 @@
 // No functionality required for this design
 // Keeping file to satisfy structure
 
-console.log("Welcome to Accio Jobs page loaded");
+console.log("Welcome to Accio Jobs");
