@@ -9,7 +9,7 @@ body {
 
 /* Center the heading */
 h1 {
-    text-align: center;
+    text-align:left ;
     font-size: 48px;
     font-weight: bold;
     margin-top: 48px;
